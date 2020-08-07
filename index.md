@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a la página oficial de los talleres de Física de la FIC
 
 You can use the [editor on GitHub](https://github.com/pcamigo/taller_fisica.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
